@@ -10,7 +10,7 @@
 * Log normalization
 * Training the linear regression model
 
-Tools :
+# Tools :
 Python libraries :
 - Pandas
 - scikit-learn
