@@ -13,5 +13,6 @@
 # Tools :
 Python libraries :
 - Pandas
+- Numpy
 - scikit-learn
 - TPOT
