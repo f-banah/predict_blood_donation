@@ -8,7 +8,7 @@
 * Selecting model using TPOT
 * Checking the variance
 * Log normalization
-* Training the linear regression model
+* Training the logistic regression model
 
 # Tools :
 Python libraries :
